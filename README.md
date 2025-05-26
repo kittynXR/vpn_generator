@@ -1,3 +1,5 @@
+# [this is basically pointless when tailscale exists]
+
 # WireGuard VPN on AWS using Terraform
 
 This Terraform script automates the setup of a WireGuard VPN server on AWS. It creates all necessary AWS resources and configures WireGuard, allowing for easy deployment and management of a personal VPN.
